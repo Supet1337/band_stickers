@@ -181,92 +181,92 @@
         {
           id: "asia-sticker-2",
           title: "ASIA 2",
-          path: "stickers/ASIA/sticker 2.webp",
-          smallPath: "stickers_128/ASIA/sticker 2.png"
+          path: "stickers/ASIA/sticker_2.webp",
+          smallPath: "stickers_128/ASIA/sticker_2.png"
         },
         {
           id: "asia-sticker-3",
           title: "ASIA 3",
-          path: "stickers/ASIA/sticker 3.webp",
-          smallPath: "stickers_128/ASIA/sticker 3.png"
+          path: "stickers/ASIA/sticker_3.webp",
+          smallPath: "stickers_128/ASIA/sticker_3.png"
         },
         {
           id: "asia-sticker-4",
           title: "ASIA 4",
-          path: "stickers/ASIA/sticker 4.webp",
-          smallPath: "stickers_128/ASIA/sticker 4.png"
+          path: "stickers/ASIA/sticker_4.webp",
+          smallPath: "stickers_128/ASIA/sticker_4.png"
         },
         {
           id: "asia-sticker-5",
           title: "ASIA 5",
-          path: "stickers/ASIA/sticker 5.webp",
-          smallPath: "stickers_128/ASIA/sticker 5.png"
+          path: "stickers/ASIA/sticker_5.webp",
+          smallPath: "stickers_128/ASIA/sticker_5.png"
         },
         {
           id: "asia-sticker-6",
           title: "ASIA 6",
-          path: "stickers/ASIA/sticker 6.webp",
-          smallPath: "stickers_128/ASIA/sticker 6.png"
+          path: "stickers/ASIA/sticker_6.webp",
+          smallPath: "stickers_128/ASIA/sticker_6.png"
         },
         {
           id: "asia-sticker-7",
           title: "ASIA 7",
-          path: "stickers/ASIA/sticker 7.webp",
-          smallPath: "stickers_128/ASIA/sticker 7.png"
+          path: "stickers/ASIA/sticker_7.webp",
+          smallPath: "stickers_128/ASIA/sticker_7.png"
         },
         {
           id: "asia-sticker-8",
           title: "ASIA 8",
-          path: "stickers/ASIA/sticker 8.webp",
-          smallPath: "stickers_128/ASIA/sticker 8.png"
+          path: "stickers/ASIA/sticker_8.webp",
+          smallPath: "stickers_128/ASIA/sticker_8.png"
         },
         {
           id: "asia-sticker-9",
           title: "ASIA 9",
-          path: "stickers/ASIA/sticker 9.webp",
-          smallPath: "stickers_128/ASIA/sticker 9.png"
+          path: "stickers/ASIA/sticker_9.webp",
+          smallPath: "stickers_128/ASIA/sticker_9.png"
         },
         {
           id: "asia-sticker-10",
           title: "ASIA 10",
-          path: "stickers/ASIA/sticker 10.webp",
-          smallPath: "stickers_128/ASIA/sticker 10.png"
+          path: "stickers/ASIA/sticker_10.webp",
+          smallPath: "stickers_128/ASIA/sticker_10.png"
         },
         {
           id: "asia-sticker-11",
           title: "ASIA 11",
-          path: "stickers/ASIA/sticker 11.webp",
-          smallPath: "stickers_128/ASIA/sticker 11.png"
+          path: "stickers/ASIA/sticker_11.webp",
+          smallPath: "stickers_128/ASIA/sticker_11.png"
         },
         {
           id: "asia-sticker-12",
           title: "ASIA 12",
-          path: "stickers/ASIA/sticker 12.webp",
-          smallPath: "stickers_128/ASIA/sticker 12.png"
+          path: "stickers/ASIA/sticker_12.webp",
+          smallPath: "stickers_128/ASIA/sticker_12.png"
         },
         {
           id: "asia-sticker-13",
           title: "ASIA 13",
-          path: "stickers/ASIA/sticker 13.webp",
-          smallPath: "stickers_128/ASIA/sticker 13.png"
+          path: "stickers/ASIA/sticker_13.webp",
+          smallPath: "stickers_128/ASIA/sticker_13.png"
         },
         {
           id: "asia-sticker-14",
           title: "ASIA 14",
-          path: "stickers/ASIA/sticker 14.webp",
-          smallPath: "stickers_128/ASIA/sticker 14.png"
+          path: "stickers/ASIA/sticker_14.webp",
+          smallPath: "stickers_128/ASIA/sticker_14.png"
         },
         {
           id: "asia-sticker-15",
           title: "ASIA 15",
-          path: "stickers/ASIA/sticker 15.webp",
-          smallPath: "stickers_128/ASIA/sticker 15.png"
+          path: "stickers/ASIA/sticker_15.webp",
+          smallPath: "stickers_128/ASIA/sticker_15.png"
         },
         {
           id: "asia-sticker-16",
           title: "ASIA 16",
-          path: "stickers/ASIA/sticker 16.webp",
-          smallPath: "stickers_128/ASIA/sticker 16.png"
+          path: "stickers/ASIA/sticker_16.webp",
+          smallPath: "stickers_128/ASIA/sticker_16.png"
         }
       ]
     },
@@ -283,98 +283,98 @@
         {
           id: "monika-sticker-2",
           title: "MONIKA 2",
-          path: "stickers/MONIKA/sticker 2.webp",
-          smallPath: "stickers_128/MONIKA/sticker 2.png"
+          path: "stickers/MONIKA/sticker_2.webp",
+          smallPath: "stickers_128/MONIKA/sticker_2.png"
         },
         {
           id: "monika-sticker-3",
           title: "MONIKA 3",
-          path: "stickers/MONIKA/sticker 3.webp",
-          smallPath: "stickers_128/MONIKA/sticker 3.png"
+          path: "stickers/MONIKA/sticker_3.webp",
+          smallPath: "stickers_128/MONIKA/sticker_3.png"
         },
         {
           id: "monika-sticker-4",
           title: "MONIKA 4",
-          path: "stickers/MONIKA/sticker 4.webp",
-          smallPath: "stickers_128/MONIKA/sticker 4.png"
+          path: "stickers/MONIKA/sticker_4.webp",
+          smallPath: "stickers_128/MONIKA/sticker_4.png"
         },
         {
           id: "monika-sticker-5",
           title: "MONIKA 5",
-          path: "stickers/MONIKA/sticker 5.webp",
-          smallPath: "stickers_128/MONIKA/sticker 5.png"
+          path: "stickers/MONIKA/sticker_5.webp",
+          smallPath: "stickers_128/MONIKA/sticker_5.png"
         },
         {
           id: "monika-sticker-6",
           title: "MONIKA 6",
-          path: "stickers/MONIKA/sticker 6.webp",
-          smallPath: "stickers_128/MONIKA/sticker 6.png"
+          path: "stickers/MONIKA/sticker_6.webp",
+          smallPath: "stickers_128/MONIKA/sticker_6.png"
         },
         {
           id: "monika-sticker-7",
           title: "MONIKA 7",
-          path: "stickers/MONIKA/sticker 7.webp",
-          smallPath: "stickers_128/MONIKA/sticker 7.png"
+          path: "stickers/MONIKA/sticker_7.webp",
+          smallPath: "stickers_128/MONIKA/sticker_7.png"
         },
         {
           id: "monika-sticker-8",
           title: "MONIKA 8",
-          path: "stickers/MONIKA/sticker 8.webp",
-          smallPath: "stickers_128/MONIKA/sticker 8.png"
+          path: "stickers/MONIKA/sticker_8.webp",
+          smallPath: "stickers_128/MONIKA/sticker_8.png"
         },
         {
           id: "monika-sticker-9",
           title: "MONIKA 9",
-          path: "stickers/MONIKA/sticker 9.webp",
-          smallPath: "stickers_128/MONIKA/sticker 9.png"
+          path: "stickers/MONIKA/sticker_9.webp",
+          smallPath: "stickers_128/MONIKA/sticker_9.png"
         },
         {
           id: "monika-sticker-10",
           title: "MONIKA 10",
-          path: "stickers/MONIKA/sticker 10.webp",
-          smallPath: "stickers_128/MONIKA/sticker 10.png"
+          path: "stickers/MONIKA/sticker_10.webp",
+          smallPath: "stickers_128/MONIKA/sticker_10.png"
         },
         {
           id: "monika-sticker-11",
           title: "MONIKA 11",
-          path: "stickers/MONIKA/sticker 11.webp",
-          smallPath: "stickers_128/MONIKA/sticker 11.png"
+          path: "stickers/MONIKA/sticker_11.webp",
+          smallPath: "stickers_128/MONIKA/sticker_11.png"
         },
         {
           id: "monika-sticker-12",
           title: "MONIKA 12",
-          path: "stickers/MONIKA/sticker 12.webp",
-          smallPath: "stickers_128/MONIKA/sticker 12.png"
+          path: "stickers/MONIKA/sticker_12.webp",
+          smallPath: "stickers_128/MONIKA/sticker_12.png"
         },
         {
           id: "monika-sticker-13",
           title: "MONIKA 13",
-          path: "stickers/MONIKA/sticker 13.webp",
-          smallPath: "stickers_128/MONIKA/sticker 13.png"
+          path: "stickers/MONIKA/sticker_13.webp",
+          smallPath: "stickers_128/MONIKA/sticker_13.png"
         },
         {
           id: "monika-sticker-14",
           title: "MONIKA 14",
-          path: "stickers/MONIKA/sticker 14.webp",
-          smallPath: "stickers_128/MONIKA/sticker 14.png"
+          path: "stickers/MONIKA/sticker_14.webp",
+          smallPath: "stickers_128/MONIKA/sticker_14.png"
         },
         {
           id: "monika-sticker-15",
           title: "MONIKA 15",
-          path: "stickers/MONIKA/sticker 15.webp",
-          smallPath: "stickers_128/MONIKA/sticker 15.png"
+          path: "stickers/MONIKA/sticker_15.webp",
+          smallPath: "stickers_128/MONIKA/sticker_15.png"
         },
         {
           id: "monika-sticker-16",
           title: "MONIKA 16",
-          path: "stickers/MONIKA/sticker 16.webp",
-          smallPath: "stickers_128/MONIKA/sticker 16.png"
+          path: "stickers/MONIKA/sticker_16.webp",
+          smallPath: "stickers_128/MONIKA/sticker_16.png"
         },
         {
           id: "monika-sticker-17",
           title: "MONIKA 17",
-          path: "stickers/MONIKA/sticker 17.webp",
-          smallPath: "stickers_128/MONIKA/sticker 17.png"
+          path: "stickers/MONIKA/sticker_17.webp",
+          smallPath: "stickers_128/MONIKA/sticker_17.png"
         }
       ]
     },
@@ -391,8 +391,8 @@
         {
           id: "konkurenty-sticker-3",
           title: "Конкуренты 3",
-          path: "stickers/KONKURENTY/sticker 3.webp",
-          smallPath: "stickers_128/KONKURENTY/sticker 3.png"
+          path: "stickers/KONKURENTY/sticker_3.webp",
+          smallPath: "stickers_128/KONKURENTY/sticker_3.png"
         }
       ]
     },
